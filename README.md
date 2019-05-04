@@ -1,2 +1,2 @@
-# artemgypylov.com
+# artemgypylov.github.io
 сайт
